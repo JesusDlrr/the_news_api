@@ -1,6 +1,6 @@
-/front/node_modules
+/frontend/node_modules
 
 /back/node_modules
 
-/back/robots.txt
+/frontend/public/robots.txt
 
